@@ -1,0 +1,16 @@
+# Thư viện Python
+.venv/
+
+# Thư mục model và data
+phobert_model/
+fileTest/
+
+# Các loại file model, data, vectorizer
+*.bin
+*.pkl
+*.csv
+*.txt
+*.codes
+
+# Bỏ qua file VietSentiWordnet.txt (đã có .txt ở trên)
+# VietSentiWordnet.txt
